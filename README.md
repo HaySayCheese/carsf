@@ -1,4 +1,4 @@
-# 🧠 UA Collaborative AI Research & Synthesis Framework (UA-CARSF)
+# 🧠 Collaborative AI Research & Synthesis Framework (CARS)
 
 ```
  _____      _      ____    ____  
